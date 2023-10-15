@@ -11,7 +11,7 @@ type MenuAction = {
 }
 
 type SelectedMenu = {
-  id: any;
+  id: MenuIds;
 }
 
 // Додати тип Menu Selected
